@@ -1,0 +1,331 @@
+,Company_Name,ratings
+0,TCS,3.9
+1,Accenture,4.2
+2,Cognizant,4.0
+3,ICICI Bank,4.0
+4,HDFC Bank,4.0
+5,Infosys,3.9
+6,Wipro,3.9
+7,Capgemini,4.0
+8,Tech Mahindra,3.8
+9,Genpact,4.0
+10,HCL Technologies,3.9
+11,Axis Bank,3.9
+12,Amazon,4.2
+13,IBM,4.2
+14,Concentrix Corpo...,4.1
+15,Larsen & Toubro ...,4.1
+16,Reliance jio,4.0
+17,Vodafone Idea,4.2
+18,HDB Financial Se...,4.0
+19,Teleperformance,3.6
+20,Kotak Mahindra B...,3.9
+21,Bharti Airtel,4.1
+22,Reliance Industr...,4.1
+23,Deloitte,4.1
+24,Tata Motors,4.0
+25,Reliance Retail,4.1
+26,WNS,3.7
+27,Mahindra & Mahin...,3.9
+28,IndusInd Bank,3.8
+29,Flipkart,4.2
+30,TCS,3.9
+31,Accenture,4.2
+32,Cognizant,4.0
+33,ICICI Bank,4.0
+34,HDFC Bank,4.0
+35,Infosys,3.9
+36,Wipro,3.9
+37,Capgemini,4.0
+38,Tech Mahindra,3.8
+39,Genpact,4.0
+40,HCL Technologies,3.9
+41,Axis Bank,3.9
+42,Amazon,4.2
+43,IBM,4.2
+44,Concentrix Corpo...,4.1
+45,Larsen & Toubro ...,4.1
+46,Reliance jio,4.0
+47,Vodafone Idea,4.2
+48,HDB Financial Se...,4.0
+49,Teleperformance,3.6
+50,Kotak Mahindra B...,3.9
+51,Bharti Airtel,4.1
+52,Reliance Industr...,4.1
+53,Deloitte,4.1
+54,Tata Motors,4.0
+55,Reliance Retail,4.1
+56,WNS,3.7
+57,Mahindra & Mahin...,3.9
+58,IndusInd Bank,3.8
+59,Flipkart,4.2
+60,TCS,3.9
+61,Accenture,4.2
+62,Cognizant,4.0
+63,ICICI Bank,4.0
+64,HDFC Bank,4.0
+65,Infosys,3.9
+66,Wipro,3.9
+67,Capgemini,4.0
+68,Tech Mahindra,3.8
+69,Genpact,4.0
+70,HCL Technologies,3.9
+71,Axis Bank,3.9
+72,Amazon,4.2
+73,IBM,4.2
+74,Concentrix Corpo...,4.1
+75,Larsen & Toubro ...,4.1
+76,Reliance jio,4.0
+77,Vodafone Idea,4.2
+78,HDB Financial Se...,4.0
+79,Teleperformance,3.6
+80,Kotak Mahindra B...,3.9
+81,Bharti Airtel,4.1
+82,Reliance Industr...,4.1
+83,Deloitte,4.1
+84,Tata Motors,4.0
+85,Reliance Retail,4.1
+86,WNS,3.7
+87,Mahindra & Mahin...,3.9
+88,IndusInd Bank,3.8
+89,Flipkart,4.2
+90,TCS,3.9
+91,Accenture,4.2
+92,Cognizant,4.0
+93,ICICI Bank,4.0
+94,HDFC Bank,4.0
+95,Infosys,3.9
+96,Wipro,3.9
+97,Capgemini,4.0
+98,Tech Mahindra,3.8
+99,Genpact,4.0
+100,HCL Technologies,3.9
+101,Axis Bank,3.9
+102,Amazon,4.2
+103,IBM,4.2
+104,Concentrix Corpo...,4.1
+105,Larsen & Toubro ...,4.1
+106,Reliance jio,4.0
+107,Vodafone Idea,4.2
+108,HDB Financial Se...,4.0
+109,Teleperformance,3.6
+110,Kotak Mahindra B...,3.9
+111,Bharti Airtel,4.1
+112,Reliance Industr...,4.1
+113,Deloitte,4.1
+114,Tata Motors,4.0
+115,Reliance Retail,4.1
+116,WNS,3.7
+117,Mahindra & Mahin...,3.9
+118,IndusInd Bank,3.8
+119,Flipkart,4.2
+120,TCS,3.9
+121,Accenture,4.2
+122,Cognizant,4.0
+123,ICICI Bank,4.0
+124,HDFC Bank,4.0
+125,Infosys,3.9
+126,Wipro,3.9
+127,Capgemini,4.0
+128,Tech Mahindra,3.8
+129,Genpact,4.0
+130,HCL Technologies,3.9
+131,Axis Bank,3.9
+132,Amazon,4.2
+133,IBM,4.2
+134,Concentrix Corpo...,4.1
+135,Larsen & Toubro ...,4.1
+136,Reliance jio,4.0
+137,Vodafone Idea,4.2
+138,HDB Financial Se...,4.0
+139,Teleperformance,3.6
+140,Kotak Mahindra B...,3.9
+141,Bharti Airtel,4.1
+142,Reliance Industr...,4.1
+143,Deloitte,4.1
+144,Tata Motors,4.0
+145,Reliance Retail,4.1
+146,WNS,3.7
+147,Mahindra & Mahin...,3.9
+148,IndusInd Bank,3.8
+149,Flipkart,4.2
+150,TCS,3.9
+151,Accenture,4.2
+152,Cognizant,4.0
+153,ICICI Bank,4.0
+154,HDFC Bank,4.0
+155,Infosys,3.9
+156,Wipro,3.9
+157,Capgemini,4.0
+158,Tech Mahindra,3.8
+159,Genpact,4.0
+160,HCL Technologies,3.9
+161,Axis Bank,3.9
+162,Amazon,4.2
+163,IBM,4.2
+164,Concentrix Corpo...,4.1
+165,Larsen & Toubro ...,4.1
+166,Reliance jio,4.0
+167,Vodafone Idea,4.2
+168,HDB Financial Se...,4.0
+169,Teleperformance,3.6
+170,Kotak Mahindra B...,3.9
+171,Bharti Airtel,4.1
+172,Reliance Industr...,4.1
+173,Deloitte,4.1
+174,Tata Motors,4.0
+175,Reliance Retail,4.1
+176,WNS,3.7
+177,Mahindra & Mahin...,3.9
+178,IndusInd Bank,3.8
+179,Flipkart,4.2
+180,TCS,3.9
+181,Accenture,4.2
+182,Cognizant,4.0
+183,ICICI Bank,4.0
+184,HDFC Bank,4.0
+185,Infosys,3.9
+186,Wipro,3.9
+187,Capgemini,4.0
+188,Tech Mahindra,3.8
+189,Genpact,4.0
+190,HCL Technologies,3.9
+191,Axis Bank,3.9
+192,Amazon,4.2
+193,IBM,4.2
+194,Concentrix Corpo...,4.1
+195,Larsen & Toubro ...,4.1
+196,Reliance jio,4.0
+197,Vodafone Idea,4.2
+198,HDB Financial Se...,4.0
+199,Teleperformance,3.6
+200,Kotak Mahindra B...,3.9
+201,Bharti Airtel,4.1
+202,Reliance Industr...,4.1
+203,Deloitte,4.1
+204,Tata Motors,4.0
+205,Reliance Retail,4.1
+206,WNS,3.7
+207,Mahindra & Mahin...,3.9
+208,IndusInd Bank,3.8
+209,Flipkart,4.2
+210,TCS,3.9
+211,Accenture,4.2
+212,Cognizant,4.0
+213,ICICI Bank,4.0
+214,HDFC Bank,4.0
+215,Infosys,3.9
+216,Wipro,3.9
+217,Capgemini,4.0
+218,Tech Mahindra,3.8
+219,Genpact,4.0
+220,HCL Technologies,3.9
+221,Axis Bank,3.9
+222,Amazon,4.2
+223,IBM,4.2
+224,Concentrix Corpo...,4.1
+225,Larsen & Toubro ...,4.1
+226,Reliance jio,4.0
+227,Vodafone Idea,4.2
+228,HDB Financial Se...,4.0
+229,Teleperformance,3.6
+230,Kotak Mahindra B...,3.9
+231,Bharti Airtel,4.1
+232,Reliance Industr...,4.1
+233,Deloitte,4.1
+234,Tata Motors,4.0
+235,Reliance Retail,4.1
+236,WNS,3.7
+237,Mahindra & Mahin...,3.9
+238,IndusInd Bank,3.8
+239,Flipkart,4.2
+240,TCS,3.9
+241,Accenture,4.2
+242,Cognizant,4.0
+243,ICICI Bank,4.0
+244,HDFC Bank,4.0
+245,Infosys,3.9
+246,Wipro,3.9
+247,Capgemini,4.0
+248,Tech Mahindra,3.8
+249,Genpact,4.0
+250,HCL Technologies,3.9
+251,Axis Bank,3.9
+252,Amazon,4.2
+253,IBM,4.2
+254,Concentrix Corpo...,4.1
+255,Larsen & Toubro ...,4.1
+256,Reliance jio,4.0
+257,Vodafone Idea,4.2
+258,HDB Financial Se...,4.0
+259,Teleperformance,3.6
+260,Kotak Mahindra B...,3.9
+261,Bharti Airtel,4.1
+262,Reliance Industr...,4.1
+263,Deloitte,4.1
+264,Tata Motors,4.0
+265,Reliance Retail,4.1
+266,WNS,3.7
+267,Mahindra & Mahin...,3.9
+268,IndusInd Bank,3.8
+269,Flipkart,4.2
+270,TCS,3.9
+271,Accenture,4.2
+272,Cognizant,4.0
+273,ICICI Bank,4.0
+274,HDFC Bank,4.0
+275,Infosys,3.9
+276,Wipro,3.9
+277,Capgemini,4.0
+278,Tech Mahindra,3.8
+279,Genpact,4.0
+280,HCL Technologies,3.9
+281,Axis Bank,3.9
+282,Amazon,4.2
+283,IBM,4.2
+284,Concentrix Corpo...,4.1
+285,Larsen & Toubro ...,4.1
+286,Reliance jio,4.0
+287,Vodafone Idea,4.2
+288,HDB Financial Se...,4.0
+289,Teleperformance,3.6
+290,Kotak Mahindra B...,3.9
+291,Bharti Airtel,4.1
+292,Reliance Industr...,4.1
+293,Deloitte,4.1
+294,Tata Motors,4.0
+295,Reliance Retail,4.1
+296,WNS,3.7
+297,Mahindra & Mahin...,3.9
+298,IndusInd Bank,3.8
+299,Flipkart,4.2
+300,TCS,3.9
+301,Accenture,4.2
+302,Cognizant,4.0
+303,ICICI Bank,4.0
+304,HDFC Bank,4.0
+305,Infosys,3.9
+306,Wipro,3.9
+307,Capgemini,4.0
+308,Tech Mahindra,3.8
+309,Genpact,4.0
+310,HCL Technologies,3.9
+311,Axis Bank,3.9
+312,Amazon,4.2
+313,IBM,4.2
+314,Concentrix Corpo...,4.1
+315,Larsen & Toubro ...,4.1
+316,Reliance jio,4.0
+317,Vodafone Idea,4.2
+318,HDB Financial Se...,4.0
+319,Teleperformance,3.6
+320,Kotak Mahindra B...,3.9
+321,Bharti Airtel,4.1
+322,Reliance Industr...,4.1
+323,Deloitte,4.1
+324,Tata Motors,4.0
+325,Reliance Retail,4.1
+326,WNS,3.7
+327,Mahindra & Mahin...,3.9
+328,IndusInd Bank,3.8
+329,Flipkart,4.2
